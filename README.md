@@ -32,13 +32,13 @@ A collection of my data analytics and business intelligence projects developed u
 
 | # | Project | Description | Repository |
 |---|---|---|---|
-| 1 | Amazon Sales Dashboard | Interactive dashboard analyzing Amazon sales and product performance. | [View Project](https://github.com/Hamna228E/Amazon-Sales-Dashboard) |
+| 1 | Amazon Sales Dashboard | Interactive dashboard analyzing Amazon sales and product performance. | [View Project](https://github.com/Hamna228/Amazon-Sales-Dashboard) |
 | 2 | Customer Demographics Analysis | Interactive dashboard exploring customer demographics and patterns. | [View Project](https://github.com/Hamna228/Customer-Demographics-Analysis) |
 | 3 | Employee Productivity Dashboard | Dashboard analyzing employee productivity and performance. | [View Project](https://github.com/Hamna228/Employee-Productivity-Dashboard) |
 | 4 | Financial Performance Dashboard | Interactive dashboard analyzing financial performance and business metrics. | [View Project](https://github.com/Hamna228/Financial-Performance-Dashboard) |
 | 5 | Inventory Management Dashboard | Dashboard analyzing inventory levels, products, and inventory performance. | [View Project](https://github.com/Hamna228E/Inventory-Management-Dashboard) |
 | 6 | Marketing Campaign Analysis Dashboard | Dashboard analyzing marketing campaign performance and key metrics. | [View Project](https://github.com/Hamna228/Marketing-Campaign-Analysis-Dashboard) |
-| 7 | Sales Performance Power BI Dashboard | Interactive dashboard analyzing sales performance and business trends. | [View Project](https://github.com/Hamna228/Sales-Performance-Powerbi-Dashboard) |
+| 7 | Sales Performance Power BI Dashboard | Interactive dashboard analyzing sales performance and business trends. | [View Project](https://github.com/Hamna228/Sales_Performance_Powerbi_Dashboard) |
 
 ---
 
