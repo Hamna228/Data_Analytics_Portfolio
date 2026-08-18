@@ -32,13 +32,13 @@ A collection of my data analytics and business intelligence projects developed u
 
 | # | Project | Description | Repository |
 |---|---|---|---|
-| 1 | Amazon Sales Dashboard | Interactive dashboard analyzing Amazon sales and product performance. | [View Project](https://github.com/YOUR-USERNAME/Amazon-Sales-Dashboard) |
-| 2 | Customer Demographics Analysis | Interactive dashboard exploring customer demographics and patterns. | [View Project](https://github.com/YOUR-USERNAME/Customer-Demographics-Analysis) |
-| 3 | Employee Productivity Dashboard | Dashboard analyzing employee productivity and performance. | [View Project](https://github.com/YOUR-USERNAME/Employee-Productivity-Dashboard) |
-| 4 | Financial Performance Dashboard | Interactive dashboard analyzing financial performance and business metrics. | [View Project](https://github.com/YOUR-USERNAME/Financial-Performance-Dashboard) |
-| 5 | Inventory Management Dashboard | Dashboard analyzing inventory levels, products, and inventory performance. | [View Project](https://github.com/YOUR-USERNAME/Inventory-Management-Dashboard) |
-| 6 | Marketing Campaign Analysis Dashboard | Dashboard analyzing marketing campaign performance and key metrics. | [View Project](https://github.com/YOUR-USERNAME/Marketing-Campaign-Analysis-Dashboard) |
-| 7 | Sales Performance Power BI Dashboard | Interactive dashboard analyzing sales performance and business trends. | [View Project](https://github.com/YOUR-USERNAME/Sales-Performance-Powerbi-Dashboard) |
+| 1 | Amazon Sales Dashboard | Interactive dashboard analyzing Amazon sales and product performance. | [View Project](https://github.com/Hamna228E/Amazon-Sales-Dashboard) |
+| 2 | Customer Demographics Analysis | Interactive dashboard exploring customer demographics and patterns. | [View Project](https://github.com/Hamna228/Customer-Demographics-Analysis) |
+| 3 | Employee Productivity Dashboard | Dashboard analyzing employee productivity and performance. | [View Project](https://github.com/Hamna228/Employee-Productivity-Dashboard) |
+| 4 | Financial Performance Dashboard | Interactive dashboard analyzing financial performance and business metrics. | [View Project](https://github.com/Hamna228/Financial-Performance-Dashboard) |
+| 5 | Inventory Management Dashboard | Dashboard analyzing inventory levels, products, and inventory performance. | [View Project](https://github.com/Hamna228E/Inventory-Management-Dashboard) |
+| 6 | Marketing Campaign Analysis Dashboard | Dashboard analyzing marketing campaign performance and key metrics. | [View Project](https://github.com/Hamna228/Marketing-Campaign-Analysis-Dashboard) |
+| 7 | Sales Performance Power BI Dashboard | Interactive dashboard analyzing sales performance and business trends. | [View Project](https://github.com/Hamna228/Sales-Performance-Powerbi-Dashboard) |
 
 ---
 
@@ -46,18 +46,18 @@ A collection of my data analytics and business intelligence projects developed u
 
 | # | Project | Description | Repository |
 |---|---|---|---|
-| 1 | Global Superstore Dashboard | Interactive dashboard analyzing sales, profit, products, and regional performance. | [View Project](https://github.com/YOUR-USERNAME/Global-Superstore-Dashboard) |
-| 2 | Superstore Sales Dashboard | Dashboard analyzing sales performance, profitability, products, and regional trends. | [View Project](https://github.com/YOUR-USERNAME/Superstore-Sales-Dashboard) |
-| 3 | Netflix Dashboard | Interactive dashboard exploring Netflix movies, TV shows, genres, countries, and content trends. | [View Project](https://github.com/YOUR-USERNAME/Netflix-Dashboard) |
-| 4 | Data Scientist Salary Dashboard | Dashboard analyzing data scientist salaries and related trends. | [View Project](https://github.com/YOUR-USERNAME/Data-Scientist-Salary-Dashboard) |
-| 5 | Retail Sales Dashboard | Interactive dashboard analyzing retail sales performance and trends. | [View Project](https://github.com/YOUR-USERNAME/Retail-Sales-Dashboard) |
-| 6 | Helpdesk Dashboard | Dashboard analyzing helpdesk tickets, support activity, and performance. | [View Project](https://github.com/YOUR-USERNAME/Helpdesk-Dashboard) |
-| 7 | Goodreads Books Dashboard | Interactive dashboard exploring books, authors, ratings, and publication data. | [View Project](https://github.com/YOUR-USERNAME/Goodreads-Books-Dashboard) |
-| 8 | E-commerce Dashboard | Dashboard analyzing e-commerce sales, products, customers, and business performance. | [View Project](https://github.com/YOUR-USERNAME/E-commerce-dashboard) |
+| 1 | Global Superstore Dashboard | Interactive dashboard analyzing sales, profit, products, and regional performance. | [View Project](https://github.com/Hamna228/Global-Superstore-Dashboard) |
+| 2 | Superstore Sales Dashboard | Dashboard analyzing sales performance, profitability, products, and regional trends. | [View Project](https://github.com/Hamna228/Superstore-Sales-Dashboard) |
+| 3 | Netflix Dashboard | Interactive dashboard exploring Netflix movies, TV shows, genres, countries, and content trends. | [View Project](https://github.com/Hamna228/Netflix-Dashboard) |
+| 4 | Data Scientist Salary Dashboard | Dashboard analyzing data scientist salaries and related trends. | [View Project](https://github.com/Hamna228/Data-Scientist-Salary-Dashboard) |
+| 5 | Retail Sales Dashboard | Interactive dashboard analyzing retail sales performance and trends. | [View Project](https://github.com/Hamna228/Retail-Sales-Dashboard) |
+| 6 | Helpdesk Dashboard | Dashboard analyzing helpdesk tickets, support activity, and performance. | [View Project](https://github.com/Hamna228/Helpdesk-Dashboard) |
+| 7 | Goodreads Books Dashboard | Interactive dashboard exploring books, authors, ratings, and publication data. | [View Project](https://github.com/Hamna228/Goodreads-Books-Dashboard) |
+| 8 | E-commerce Dashboard | Dashboard analyzing e-commerce sales, products, customers, and business performance. | [View Project](https://github.com/Hamna228/E-commerce-dashboard) |
 
 ---
 
 ## 🛠️ Tools
 
 `Power BI` • `Tableau` • `Excel` • `Python` • `SQL`
-`Power BI` • `Tableau` • `Excel` • `Python` • `SQL`
+
