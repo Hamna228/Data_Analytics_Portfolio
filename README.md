@@ -6,7 +6,7 @@ This repository brings together my work in **Business Intelligence, Data Visuali
 
 Through these projects, I explore real-world datasets, build interactive dashboards, identify meaningful patterns, and communicate data-driven insights in a clear and effective way.
 
---
+---
 ## 👨‍💻 About This Portfolio
 
 This portfolio represents my practical learning and hands-on experience with different datasets and business scenarios.
