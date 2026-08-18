@@ -22,11 +22,6 @@ My projects focus on:
 
 ---
 
-# 📊 Data Analytics Portfolio
-
-A collection of my data analytics and business intelligence projects developed using **Power BI** and **Tableau**.
-
----
 
 ## 🔵 Tableau Projects
 
