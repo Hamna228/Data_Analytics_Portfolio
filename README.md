@@ -1,6 +1,24 @@
 # 📊 Data Analytics Portfolio
 
-A collection of my **Power BI** and **Tableau** projects focused on data visualization, business intelligence, and data-driven insights.
+Welcome to my Data Analytics Portfolio.
+
+This repository brings together my work in **Business Intelligence, Data Visualization, and Data Analytics**, featuring projects developed using **Tableau and Power BI**.
+
+Through these projects, I explore real-world datasets, build interactive dashboards, identify meaningful patterns, and communicate data-driven insights in a clear and effective way.
+
+--
+## 👨‍💻 About This Portfolio
+
+This portfolio represents my practical learning and hands-on experience with different datasets and business scenarios.
+
+My projects focus on:
+
+- 📊 Interactive dashboard development
+- 🔍 Exploratory data analysis
+- 📈 Data visualization and reporting
+- 💡 Identifying trends and patterns
+- 📋 Presenting insights for better decision-making
+- 🧹 Working with and preparing datasets for analysis
 
 ---
 
