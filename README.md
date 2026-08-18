@@ -22,13 +22,23 @@ My projects focus on:
 
 ---
 
+# 📊 Data Analytics Portfolio
+
+A collection of my data analytics and business intelligence projects developed using **Power BI** and **Tableau**.
+
+---
+
 ## 🟡 Power BI Projects
 
 | # | Project | Description | Repository |
 |---|---|---|---|
-| 1 | Amazon Sales Dashboard | Amazon sales and product performance analysis | [View Project](PROJECT-LINK) |
-| 2 | Data Scientist Salary Dashboard | Salary analysis across data science roles and experience levels | [View Project](PROJECT-LINK) |
-| 3 | Customer Demographics Analysis | Analysis of customer demographics and patterns | [View Project](PROJECT-LINK) |
+| 1 | Amazon Sales Dashboard | Interactive dashboard analyzing Amazon sales and product performance. | [View Project](https://github.com/YOUR-USERNAME/Amazon-Sales-Dashboard) |
+| 2 | Customer Demographics Analysis | Interactive dashboard exploring customer demographics and patterns. | [View Project](https://github.com/YOUR-USERNAME/Customer-Demographics-Analysis) |
+| 3 | Employee Productivity Dashboard | Dashboard analyzing employee productivity and performance. | [View Project](https://github.com/YOUR-USERNAME/Employee-Productivity-Dashboard) |
+| 4 | Financial Performance Dashboard | Interactive dashboard analyzing financial performance and business metrics. | [View Project](https://github.com/YOUR-USERNAME/Financial-Performance-Dashboard) |
+| 5 | Inventory Management Dashboard | Dashboard analyzing inventory levels, products, and inventory performance. | [View Project](https://github.com/YOUR-USERNAME/Inventory-Management-Dashboard) |
+| 6 | Marketing Campaign Analysis Dashboard | Dashboard analyzing marketing campaign performance and key metrics. | [View Project](https://github.com/YOUR-USERNAME/Marketing-Campaign-Analysis-Dashboard) |
+| 7 | Sales Performance Power BI Dashboard | Interactive dashboard analyzing sales performance and business trends. | [View Project](https://github.com/YOUR-USERNAME/Sales-Performance-Powerbi-Dashboard) |
 
 ---
 
@@ -36,16 +46,18 @@ My projects focus on:
 
 | # | Project | Description | Repository |
 |---|---|---|---|
-| 1 | Global Superstore Dashboard | Sales, profit, product, and regional performance analysis | [View Project](PROJECT-LINK) |
-| 2 | Superstore Sales Dashboard | Sales and profitability analysis | [View Project](PROJECT-LINK) |
-| 3 | Netflix Dashboard | Netflix content, genres, countries, and release trends | [View Project](PROJECT-LINK) |
-| 4 | Retail Sales Dashboard | Retail sales performance and business trends | [View Project](PROJECT-LINK) |
-| 5 | Helpdesk Dashboard | Helpdesk tickets and support performance analysis | [View Project](PROJECT-LINK) |
-| 6 | Goodreads Books Dashboard | Books, authors, ratings, and publication analysis | [View Project](PROJECT-LINK) |
-| 7 | E-commerce Dashboard | E-commerce sales, products, and customer analysis | [View Project](PROJECT-LINK) |
+| 1 | Global Superstore Dashboard | Interactive dashboard analyzing sales, profit, products, and regional performance. | [View Project](https://github.com/YOUR-USERNAME/Global-Superstore-Dashboard) |
+| 2 | Superstore Sales Dashboard | Dashboard analyzing sales performance, profitability, products, and regional trends. | [View Project](https://github.com/YOUR-USERNAME/Superstore-Sales-Dashboard) |
+| 3 | Netflix Dashboard | Interactive dashboard exploring Netflix movies, TV shows, genres, countries, and content trends. | [View Project](https://github.com/YOUR-USERNAME/Netflix-Dashboard) |
+| 4 | Data Scientist Salary Dashboard | Dashboard analyzing data scientist salaries and related trends. | [View Project](https://github.com/YOUR-USERNAME/Data-Scientist-Salary-Dashboard) |
+| 5 | Retail Sales Dashboard | Interactive dashboard analyzing retail sales performance and trends. | [View Project](https://github.com/YOUR-USERNAME/Retail-Sales-Dashboard) |
+| 6 | Helpdesk Dashboard | Dashboard analyzing helpdesk tickets, support activity, and performance. | [View Project](https://github.com/YOUR-USERNAME/Helpdesk-Dashboard) |
+| 7 | Goodreads Books Dashboard | Interactive dashboard exploring books, authors, ratings, and publication data. | [View Project](https://github.com/YOUR-USERNAME/Goodreads-Books-Dashboard) |
+| 8 | E-commerce Dashboard | Dashboard analyzing e-commerce sales, products, customers, and business performance. | [View Project](https://github.com/YOUR-USERNAME/E-commerce-dashboard) |
 
 ---
 
 ## 🛠️ Tools
 
+`Power BI` • `Tableau` • `Excel` • `Python` • `SQL`
 `Power BI` • `Tableau` • `Excel` • `Python` • `SQL`
